@@ -1,0 +1,14 @@
+{
+  "course": "ECE141a",
+  "assignment"         : 5,
+  "due_date"           : "Mar 16, 2023, 11:30p",
+  "total_effort_hours" : 12,
+  "students": [
+    {
+      "name " : "Wesley Hu",
+      "pid"   : "A16457670",
+      "email" : "wjhu@ucsd.edu",
+      "os"    : "windows & mac for zlib"
+    }
+  ]
+}
